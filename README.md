@@ -7,22 +7,6 @@ One Paragraph of project description goes here
 Precompiled binary : [l2orph.exe](https://mega.nz/file/LVpBlSKa#4kmdVlP_vZL13exF64ubNMG_CpuZ-UtOZPebcSz7WFc) download the .exe and run it with administrator privileges(right click->run as administrator)
 
 
-### Installing
-
-If you want to change the buttons edit `l2orph.py` and either install the dependencies
-* python3.7
-* win32gui
-* win32con
-* win32api
-* tkinter
-
-and run the `l2orph.py` script
-
-or edit `l2orph.py`, download pip and
-
-`pip install auto-py-to-exe` in cmd, then run `auto-py-to-exe` in cmd.
-
-
 ## Usage
 
 Sends the following keystrokes with 0.5 sec delay sequentially: `del, end, page_down`
@@ -43,3 +27,20 @@ macro3 at 3rd place of 3rd bar:
 `/assist`
 
 This works even when l2 is in the background. I've found that interchanging macro1 and macro2 at the bar works better when l2 is in the foreground.
+
+### Tweaking the bot
+
+If you want to change the buttons edit `l2orph.py` and either install the dependencies
+* python3.7
+* win32gui
+* win32con
+* win32api
+* tkinter
+
+and run the `l2orph.py` script
+
+or edit `l2orph.py`, download pip and
+
+`pip install auto-py-to-exe` in cmd, then run `auto-py-to-exe` in cmd.
+
+Then run the exectuable.
