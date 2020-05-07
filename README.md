@@ -1,7 +1,5 @@
 # L2Orphbot
 
-One Paragraph of project description goes here
-
 ## Getting Started
 
 Precompiled binary : [l2orph.exe](https://mega.nz/file/LVpBlSKa#4kmdVlP_vZL13exF64ubNMG_CpuZ-UtOZPebcSz7WFc) download the .exe and run it with administrator privileges(right click->run as administrator)
