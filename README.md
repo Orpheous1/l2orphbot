@@ -37,10 +37,10 @@ If you want to change the buttons edit `l2orph.py` and either install the depend
 * win32api
 * tkinter
 
-and run the `l2orph.py` script
+and run the `l2orph.py` script with a .bat file with administrator rights
 
-or edit `l2orph.py`, download pip and
+or edit `l2orph.py`, download pip and the dependencies above and
 
 `pip install auto-py-to-exe` in cmd, then run `auto-py-to-exe` in cmd.
 
-Then run the exectuable.
+Then run the exectuable with administrator rights.
