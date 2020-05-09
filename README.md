@@ -8,7 +8,7 @@ Otherwise download the whole project from this git and run l2orph.exe
 
 
 ## Usage
-
+L2 has to be open before executing the .exe.
 Sends the following keystrokes with 0.5 sec delay sequentially: `del, end, page_down`
 You can change these keybinds from settings->shortcut and map them to Shortcut(Expanded #) and place in the 3rd bar the following macros:
 
